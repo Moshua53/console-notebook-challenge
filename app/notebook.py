@@ -1,3 +1,4 @@
+
 from datetime import datetime
 class Note:
     HIGH:str="HIGH"
@@ -26,7 +27,7 @@ class Note:
         Numero_notas = int(len(self.notes))
         def add_note(self,title:str,text:str,importance:str)-> int:
             code=Numero_notas+
-            
+
 
 
 
